@@ -1,1 +1,20 @@
-{}
+{
+  "sanad": {
+    "username": "sanad",
+    "password": "Sanad001",
+    "student_type": "علمي",
+    "telegram_user_id": "5863297749",
+    "telegram_username": null,
+    "telegram_first_name": "ݺ،عبيد❤️‍🩹🥷",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_20.jpg",
+    "session_id": "94c558b6-0d33-4ce6-90ab-1419b75c513d",
+    "created_at": "2026-05-08T11:29:27.197528",
+    "verified": true,
+    "last_login": "2026-05-08T13:42:22.875215",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 15
+  }
+}
