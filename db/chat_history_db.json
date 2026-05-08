@@ -1,1 +1,25 @@
-{}
+{
+  "sanad__math": {
+    "username": "sanad",
+    "subject_id": "math",
+    "messages": [
+      {
+        "role": "user",
+        "content": "قوانين معدل تغير",
+        "timestamp": "2026-05-08T17:46:33.367681+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "قوانين معدل تغير",
+        "timestamp": "2026-05-08T17:46:33.367681+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "math",
+    "saved_at": "2026-05-08T17:45:37.608518"
+  }
+}
