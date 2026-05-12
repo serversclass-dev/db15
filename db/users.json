@@ -44,5 +44,29 @@
       "islamic"
     ],
     "server_num": 15
+  },
+  "fati": {
+    "username": "fati",
+    "password": "00810illo991@E",
+    "student_type": "علمي",
+    "telegram_user_id": "7526211142",
+    "telegram_username": "Tami_am",
+    "telegram_first_name": "Tami",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_67.jpg",
+    "session_id": "68eff7ff-873d-4cb9-81c8-76fa8f4c6c65",
+    "created_at": "2026-05-11T23:32:22.657445",
+    "verified": true,
+    "last_login": "2026-05-11T23:34:05.335341",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "biology"
+    ],
+    "server_num": 15
   }
 }
