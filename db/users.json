@@ -68,5 +68,23 @@
       "biology"
     ],
     "server_num": 15
+  },
+  "wafa": {
+    "username": "wafa",
+    "password": "Fafe9koka10",
+    "student_type": "علمي",
+    "telegram_user_id": "6521262904",
+    "telegram_username": "wafa_mohamed",
+    "telegram_first_name": "Wafa_mohamed❣️",
+    "profile_photo_url": null,
+    "session_id": "ce83a889-09b1-49ce-a5ab-0b95553fd9e8",
+    "created_at": "2026-06-06T17:24:58.461020",
+    "verified": true,
+    "last_login": "2026-06-06T17:25:34.291121",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 15
   }
 }
